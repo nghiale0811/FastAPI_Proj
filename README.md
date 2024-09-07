@@ -54,6 +54,8 @@ STEP: Attach VS Code to running container
 
   text: What is on top of the building?
 
-  A picture of the app
+
+
+## A picture of the app
 
   ![Screenshot 2024-09-07 171653](https://github.com/user-attachments/assets/49ca7558-1851-4806-b49b-3391a0cfb6c5)
