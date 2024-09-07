@@ -1,4 +1,4 @@
-An example app that shows how to build a ML app with FastAPI and Docker.
+# Image Query Tool
 
 The starter file is [model_starter.py](model_starter.py) with a model from Hugging Face: https://huggingface.co/dandelin/vilt-b32-finetuned-vqa
 
@@ -53,3 +53,7 @@ STEP: Attach VS Code to running container
 - file: palace.jpeg
 
   text: What is on top of the building?
+
+  A picture of the app
+
+  ![Screenshot 2024-09-07 171653](https://github.com/user-attachments/assets/49ca7558-1851-4806-b49b-3391a0cfb6c5)
